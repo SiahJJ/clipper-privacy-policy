@@ -102,3 +102,7 @@ For privacy questions, access requests, or data deletion requests, contact:
 Email:   farmerjj26@gmail.com
 
 
+TikTok
+When the owner connects a TikTok account, Clipper uses TikTok Login Kit and the TikTok Content Posting API with the video.upload scope only. It receives an access token and the account's open ID, which are stored only on the owner's computer and used solely to upload the owner's videos to that account's TikTok inbox as drafts and to check their upload status. Clipper does not read followers, messages, likes or other TikTok account data, and does not share TikTok data with anyone. Access can be revoked at any time in TikTok under Settings → Security → Manage app permissions, after which the stored token is deleted. See also the Terms of Service.
+
+
